@@ -16,23 +16,15 @@
     <li>Git, GitHub, VS Code, PostgreSQL, MySQL</li>
 </ul>
 
-<h2>📚 Atualmente estudando...</h2>
-<ul>
-    <li>React, TypeScript, TailwindCSS, Express.js</li>
-</ul>
-
 <h2>📌 Projetos em destaque</h2>
 <ul>
-    <li>🏦 <strong>Sistema Bancário em Python</strong> - <a href="https://github.com/DEV310107">Repositório</a></li>
-    <li>🌍 <strong>Agência de Atletas</strong> - <a href="https://github.com/DEV310107">Repositório</a></li>
-    <li>📊 <strong>Dashboard de Análise de Produtos</strong> - <a href="https://github.com/DEV310107">Repositório</a></li>
+    <li>🏦 <strong>Sistema de Biblioteca em Python</strong> - <a href="https://github.com/DEV310107/sistema-de-bliblioteca">Repositório</a></li>
+    <li>🌍 <strong>Agência de Atletas</strong> - <a href="https://github.com/DEV310107/Projeto-final-html">Repositório</a></li>
 </ul>
 
 <h2>🌍 Onde me encontrar?</h2>
 <ul>
     <li><a href="https://github.com/DEV310107">GitHub</a></li>
-    <li><a href="https://www.linkedin.com/in/seu-perfil/">LinkedIn</a></li>
-    <li><a href="mailto:seuemail@gmail.com">Email</a></li>
+    <li><a href="https://www.linkedin.com/in/mateus-ribeiro-93a1522b8/">LinkedIn</a></li>
+    <li><a href="mateusr110211@gmail.com">Email</a></li>
 </ul>
-
-<p>🚀 Vamos construir algo incrível juntos!</p>
