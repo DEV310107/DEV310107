@@ -8,7 +8,7 @@
 <h2>🚀 Tecnologias e Ferramentas</h2>
 <h3>💻 Linguagens e Frameworks</h3>
 <ul>
-    <li>HTML5, CSS3, JavaScript, Python</li>
+    <li>HTML5, CSS3, JavaScript, Python, SQL</li>
 </ul>
 
 <h3>🛠️ Ferramentas e Versionamento</h3>
